@@ -14,8 +14,8 @@ Find the sum of all 0 to 9 pandigital numbers with this property.
 """
 import math
 
-# 1 generate all 0 to 9 pandigital
-# 2 check if they satisfy THE property
+# 1 Generate all the 0 to 9 pandigital
+# 2 Check if they satisfy THE property
 
 # 1
 digits = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
