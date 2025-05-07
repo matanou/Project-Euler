@@ -1,7 +1,7 @@
 # Project-Euler
 # English
-In this document, I will publish the code of the problems of the Euler project that I solved. /!\ not so that people cheat;
-I did it above all and above all for the purpose of sharing my personal projects /!\
+In this document, I will publish the code of the problems of the Euler project that I solved.
+I created this reposetory in order to share my personal advancement on these problems
 
 If you have any questions, don't hesitate to ask me (I'll answer them as soon as I see them).
 
